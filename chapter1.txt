@@ -1,1 +1,2 @@
 AWS or GCP?
+which is more flexible
