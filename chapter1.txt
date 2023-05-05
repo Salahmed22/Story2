@@ -1,3 +1,3 @@
 AWS or GCP?
 which is more flexible
-I think they are all about the same but AWS has a better layout and flow
+
