@@ -1,2 +1,3 @@
 AWS or GCP?
 which is more flexible
+Howbout Azure?
